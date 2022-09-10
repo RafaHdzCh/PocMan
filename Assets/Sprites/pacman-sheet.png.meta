@@ -462,6 +462,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -3523,6 +3524,148 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pacman-sheet_126: 2240824795921524706
+      pacman-sheet_50: -2670531594214713959
+      pacman-sheet_74: -1630342196980467152
+      pacman-sheet_45: -2072628857411572561
+      pacman-sheet_56: -5271123955200977647
+      pacman-sheet_12: -8014762910883706971
+      pacman-sheet_91: -5728251663180581950
+      pacman-sheet_39: 6306441589951705762
+      pacman-sheet_38: 3038292920529148681
+      pacman-sheet_100: -2604754861037755976
+      pacman-sheet_10: -6952449680095683337
+      pacman-sheet_6: 2829630557406144165
+      pacman-sheet_41: 7879447352337072685
+      pacman-sheet_43: -3737152282203711956
+      pacman-sheet_79: -8645294785189977950
+      pacman-sheet_47: 3585084338989407082
+      pacman-sheet_37: -9199860976193900482
+      pacman-sheet_18: -2630162424702593844
+      pacman-sheet_14: -7957969022565194131
+      pacman-sheet_25: 9000946274940424562
+      pacman-sheet_106: -579364854307727257
+      pacman-sheet_137: -623186679729208848
+      pacman-sheet_42: 1661146227028116908
+      pacman-sheet_130: 7649937131116945666
+      pacman-sheet_15: -1373268774834469264
+      pacman-sheet_44: -7997533822741563035
+      pacman-sheet_69: -3766035583395366878
+      pacman-sheet_29: -2295021607958434767
+      pacman-sheet_82: -2280214118112063583
+      pacman-sheet_95: -8574590662355026618
+      pacman-sheet_28: -8889234524801834525
+      pacman-sheet_103: -4802986796890380173
+      pacman-sheet_32: 8882255655650070233
+      pacman-sheet_78: -6352973988577154210
+      pacman-sheet_135: -8968722883074020580
+      pacman-sheet_116: -208414175967712413
+      pacman-sheet_31: 596753257533322160
+      pacman-sheet_73: -8297913858707237709
+      pacman-sheet_63: -3805022128592162824
+      pacman-sheet_76: -1020430117675722585
+      pacman-sheet_131: 6191454122591076920
+      pacman-sheet_145: 4493241066666710572
+      pacman-sheet_66: 7905061714977269426
+      pacman-sheet_86: -9146177464944191935
+      pacman-sheet_8: 517615175558599623
+      pacman-sheet_0: -2736472641157794673
+      pacman-sheet_23: 8597812817052737686
+      pacman-sheet_104: -2813219872648061857
+      pacman-sheet_144: -2478564771462422576
+      pacman-sheet_51: -4918273366444236452
+      pacman-sheet_132: 6332948887257280472
+      pacman-sheet_40: -6395447696623444301
+      pacman-sheet_26: -8421371171918728525
+      pacman-sheet_84: 67165537834730289
+      pacman-sheet_90: -4762466489306991223
+      pacman-sheet_24: 1391229331650467007
+      pacman-sheet_53: -5535790008400073789
+      pacman-sheet_81: 1984666971322670688
+      pacman-sheet_127: 6425558656705680378
+      pacman-sheet_60: 7210060816119011733
+      pacman-sheet_30: -3651179234254847968
+      pacman-sheet_89: 8665079039033482115
+      pacman-sheet_121: -1352769352755111632
+      pacman-sheet_134: -2199199079558939384
+      pacman-sheet_70: -5233262950490659164
+      pacman-sheet_49: 4795896098567565660
+      pacman-sheet_80: 3789761871040643918
+      pacman-sheet_58: 544976202619482433
+      pacman-sheet_115: 1204084320033285823
+      pacman-sheet_141: 9167198249209205966
+      pacman-sheet_54: 2670592651419078580
+      pacman-sheet_110: 6712170401494319969
+      pacman-sheet_88: -8137169748869990063
+      pacman-sheet_55: 1221967822986227987
+      pacman-sheet_99: 4572088548381596552
+      pacman-sheet_129: 295973711963421172
+      pacman-sheet_101: 759993055239601545
+      pacman-sheet_20: -4688560390636413932
+      pacman-sheet_92: 2289675513829260143
+      pacman-sheet_112: -318318509224118743
+      pacman-sheet_35: -1245559194121293355
+      pacman-sheet_65: -262577394437642137
+      pacman-sheet_97: -9091506902064942112
+      pacman-sheet_119: 3028559416862349215
+      pacman-sheet_2: -2660882964386611117
+      pacman-sheet_19: 6928510388605591945
+      pacman-sheet_123: -3329517857976751366
+      pacman-sheet_4: 7205698599196776995
+      pacman-sheet_142: 5444364958527680009
+      pacman-sheet_139: -2212078411689340067
+      pacman-sheet_33: 3056775642008805040
+      pacman-sheet_5: -8820390702039062490
+      pacman-sheet_13: 2863210609001665003
+      pacman-sheet_125: -4631542496850428298
+      pacman-sheet_62: -4035477956152920374
+      pacman-sheet_140: -678040028550407603
+      pacman-sheet_67: 3311052514870765194
+      pacman-sheet_143: 915033000977927442
+      pacman-sheet_34: -1835312235152763849
+      pacman-sheet_77: 5009484289462626031
+      pacman-sheet_113: -666509978624949198
+      pacman-sheet_85: 366245616327916220
+      pacman-sheet_124: 1478725620522853149
+      pacman-sheet_83: -6051764066341910657
+      pacman-sheet_138: -3231935928961876889
+      pacman-sheet_1: -1493149428019232254
+      pacman-sheet_61: 2927642037278094827
+      pacman-sheet_93: 317833777147655949
+      pacman-sheet_102: -5163797012091318847
+      pacman-sheet_48: -5334815508362309608
+      pacman-sheet_136: -6493911006407745993
+      pacman-sheet_57: 3250527456930807510
+      pacman-sheet_117: -9157684498340513659
+      pacman-sheet_7: -5776403956620694219
+      pacman-sheet_36: -3021369572304229344
+      pacman-sheet_59: 6443335996807310828
+      pacman-sheet_52: 171012788587650901
+      pacman-sheet_72: -8181339600840384615
+      pacman-sheet_87: 735977548461191426
+      pacman-sheet_114: -6068287076806221074
+      pacman-sheet_71: -3662915433135656679
+      pacman-sheet_68: 8706903385141214548
+      pacman-sheet_133: 799835588315174977
+      pacman-sheet_109: 5385769739013938545
+      pacman-sheet_3: -4331125784695604910
+      pacman-sheet_27: 5601688706481637000
+      pacman-sheet_75: 5645209180271447163
+      pacman-sheet_120: 6191015185294583385
+      pacman-sheet_111: -362977256983986263
+      pacman-sheet_122: 1171803065193735524
+      pacman-sheet_17: -1357513247831463448
+      pacman-sheet_46: -737301041102703569
+      pacman-sheet_9: -4335041379697886124
+      pacman-sheet_16: 1500673338978167197
+      pacman-sheet_22: 1967181428916063242
+      pacman-sheet_64: -6314729217300407851
+      pacman-sheet_21: 2276631110777195589
+      pacman-sheet_107: -77318572110521543
+      pacman-sheet_11: 723388153140992466
+      pacman-sheet_94: 8098563812277653104
+      pacman-sheet_105: -1520490191143593239
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
